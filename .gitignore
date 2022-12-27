@@ -1,0 +1,5 @@
+//acá especifico archivos o rutas que quiero ignorar y que no vayan al repositorio
+
+
+.env
+
