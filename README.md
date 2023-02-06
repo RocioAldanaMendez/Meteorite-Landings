@@ -40,7 +40,10 @@ Ask me about Fun fact! jcdi shcfic uf hfui cfdiucvhfuivhfiuv huifdhviufdhfirehf 
 - `Funcionalidad 2`: descripción de la funcionalidad 2
 - `Funcionalidad 2a`: descripción de la funcionalidade 2a relacionada con la funcionalidad 2
 - `Funcionalidad 3`: descripción de la funcionalidad 3
-- `Demo`: Añadir ejemplo visual grabado de pantalla corto
+- `Demo`: 
+
+![Demo](https://raw.githubusercontent.com/RocioAldanaMendez/Meteorite-Landings/tree/main/assets/demo.gif)
+
 
 ### Acceso al Proyecto:
 \## 📁 Acceso al proyecto
