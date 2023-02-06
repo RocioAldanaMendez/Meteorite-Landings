@@ -1,51 +1,65 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=300&section=header&text=🚀%20Título%20del%20Proyecto,%20Rocio%20Aldana%20Méndez&fontSize=30&&color=15:92a8d1,100:f7cac9&desc=%20%20&fontColor=ff6347&fontAlignY=35)
 
-## 💻 Foto de portada:
-![portada](https://github.com/RocioAldanaMendez/Meteorite-Landings/assets/portada.gif)
-
 [![Build Status](https://github.com/OpenBB-finance/OpenBBTerminal/actions/workflows/test.yml/badge.svg?branch=master)](https://github.com/OpenBB-finance/OpenBBTerminal/actions)
 [![GitHub release](https://img.shields.io/github/release/OpenBB-finance/OpenBBTerminal.svg?maxAge=3600)](https://github.com/OpenBB-finance/OpenBBTerminal/releases)
 [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
 
-## 💻 Índice:
+![GitHub Org's stars](https://img.shields.io/github/stars/RocioAldanaMendez?style=social)
+   
+## Índice:
+<!-- TABLE OF CONTENTS -->
+<details>
+  <summary>Tabla de contenido</summary>
+  <ol>
+    <li><a href="#header">Título e imagen de portada</a></li>
+     <li><a href="#indicí">índice</a></li>
+    <li><a href="#descripción-del-proyecto">Descripción del proyecto</a></li>
+    <li><a href="#Estado-del-proyecto">Estado del proyecto</a></li>
+    <li><a href="#Demostración-de-funciones-y-aplicaciones">Características de la aplicación y demostración</a></li>
+    <li><a href="#acceso-al-proyecto">Acceso al proyecto</a></li>
+    <li><a href="#tecnologías-utilizadas">Tenologías utilizadas</a></li>
+    <li><a href="#desarrolladores-del-proyecto">Desarrolladores del proyecto</a></li>
+    <li><a href="#conclusión">Conclusión</a></li>
+  </ol>
+</details>
 
-## 💻 Descripción del proyecto:
-<h3 align="center"><em>🔥I'm currently working on strengthening my knowledge.<br></em></h3>
-<h3 align="center"><em>💡Looking to collaborate on new projects and Challenges.<br></em></h3>
-<h3 align="center"><em> 🐍 I'm currently learning Python & Data Science.</em></h3>
-<h3 align="center"><em> 👽 Ask me about Fun fact!</em></h3>
+### Descripción del proyecto:
+Look ing to collaborate on new projects and Challenges jfdsckdj jifdo jfod jio jdiso jfiodnfrnfoirejfioerjforenfkrenfn
+I'm currently learning Python & Data Science. ciod jcido cjiods cjoisd jicod sjcio dhcui hcoid hcfduinfrefnjkrenfjrhfure
+Ask me about Fun fact! jcdi shcfic uf hfui cfdiucvhfuivhfiuv huifdhviufdhfirehf irefiurehfuirehfuirfiurh  ufhriuefhi urhfiurhei furhiufreuifhrieufhuirehfiurehfiureiufreiufreiufhreiufe
 
-## 🌐 Estado del Proyecto:
+![Portafolio1](https://raw.githubusercontent.com/RocioAldanaMendez/My_portfolio/main/img/portafolio1.jpg)
 
-## 🌐 Demostración de funciones y aplicaciones:
+### Estado del Proyecto:
+<h4 align="center">
+:white_check_mark: Proyecto finalizado :white_check_mark:
+</h4>
 
-## 🌐 Acceso al Proyecto:
+### Demostración de funciones y aplicaciones:
+- `Funcionalidad 1`: descripción de la funcionalidad 1
+- `Funcionalidad 2`: descripción de la funcionalidad 2
+- `Funcionalidad 2a`: descripción de la funcionalidade 2a relacionada con la funcionalidad 2
+- `Funcionalidad 3`: descripción de la funcionalidad 3
+- `Demo`: Añadir ejemplo visual grabado de pantalla corto
 
-## 💻 Tecnologías utilizadas:
+### Acceso al Proyecto:
+\## 📁 Acceso al proyecto
+
+**Indica cómo se puede descargar o acceder al código fuente del proyecto, ya sea proyecto inicial o final**
+
+\## 🛠️ Abre y ejecuta el proyecto
+
+**Muestra las instrucciones necesarias para abrir y ejecutar el proyecto**
+
+### Tecnologías utilizadas:
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">  </a> </p>
 
-## 💻 Desarrolladores del Proyecto:
-<h3 align="center"><em>Idea Original: 🚀Henry Bootcamp</em></h3>
+### Desarrolladores del Proyecto:
+*Propuesta de idea original: Henry Bootcamp
+| [<img src="https://avatars.githubusercontent.com/u/83037176?v=4" width=115><br><sub>Rocío Aldana Méndez</sub>](https://github.com/RocioAldanaMendez) |
+| :---: | 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%237289DA.svg?logo=LinkedIn&logoColor=0a66c2)](https://www.linkedin.com/in/rocio-aldana-mendez-a77a75231)
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=00a7ce)](https://discord.gg/vfBu9hN3a4)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=c32aa3)](https://instagram.com/rokuznirova) 
-
-
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=RocioAldanaMendez&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=RocioAldanaMendez&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=RocioAldanaMendez&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=RocioAldanaMendez&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
-
-## ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> See you later!</h1>
+### Conclusión:
 
 
