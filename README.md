@@ -42,7 +42,7 @@ Ask me about Fun fact! jcdi shcfic uf hfui cfdiucvhfuivhfiuv huifdhviufdhfirehf 
 - `Funcionalidad 3`: descripción de la funcionalidad 3
 - `Demo`: 
 
-![Demo](https://raw.githubusercontent.com/RocioAldanaMendez/Meteorite-Landings/tree/main/assets/demo.gif)
+![Demo](https://raw.githubusercontent.com/RocioAldanaMendez/Meteorite-Landings/main/assets/demo.gif)
 
 
 ### Acceso al Proyecto:
