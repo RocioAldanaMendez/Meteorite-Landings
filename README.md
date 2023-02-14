@@ -30,7 +30,7 @@ En esta ocasión brinda fuentes de información asociadas a las plataformas de s
 
 ### **OBJETIVO**
 El proyecto consiste en una ingesta de datos de diversas fuentes entregados por la cátedra, para aplicar transformaciones en los datasets que permitan realizar consultas a través de una API. En el siguiente enlace tendrás acceso al repositorio del proyecto original:  [Statemet](https://github.com/RocioAldanaMendez/Streaming_Plataforms)
-Los archivos están disponibles en este repositorio:  [Datasets](https://github.com/HX-PRomero/PI_ML_OPS)
+Los archivos originales están disponibles en este repositorio:  [Datasets](https://github.com/HX-PRomero/PI_ML_OPS)
 
 
 ### SCOPE OF WORK
@@ -44,21 +44,12 @@ La propuesta de trabajo se llevará a cabo en las siguientes etapas:
 6. Ajuste de parámetros del modelo
 7. Realización de un deployment en Delta 
 
-![Portafolio1](https://raw.githubusercontent.com/RocioAldanaMendez/My_portfolio/main/img/portafolio1.jpg)
+![Portafolio1](https://raw.githubusercontent.com/RocioAldanaMendez/My_portfolio/main/img/movimiento.gif)
 
 ### ESTADO:
 <h4 align="center">
 :white_check_mark: Proyecto finalizado :white_check_mark:
 </h4>
-
-### DEMOSTRACIÓN:
-- `Funcionalidad 1`: Consultar película con mayor duración con filtros opcionales de Año, Plataforma y Tipo de duración.
-- `Funcionalidad 2`: Consultar cantidad de películas por plataforma con un puntaje mayor a XX en determinado año.
-- `Funcionalidad 3`: Consultar cantidad de películas por plataforma con filtro de Plataforma.
-- `Funcionalidad 4`: Consultar actor que más se repite según la Plataforma y Año.
-- `Demo`: 
-
-![Demo](https://raw.githubusercontent.com/RocioAldanaMendez/Meteorite-Landings/main/assets/demo.gif)
 
 ### EDA - ETL
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width=40px height=40px/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width=40px height=40px/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width=40px height=40px/>  
@@ -83,7 +74,14 @@ Para este proyecto solo se solicitaron 4 tipos de consultas.
 + Actor más repetido por plataforma y año.
    La solicitud debe ser: get_actor(plataforma, año)
 
+### DEMOSTRACIÓN:
+- `Funcionalidad 1`: Consultar película con mayor duración con filtros opcionales de Año, Plataforma y Tipo de duración.
+- `Funcionalidad 2`: Consultar cantidad de películas por plataforma con un puntaje mayor a XX en determinado año.
+- `Funcionalidad 3`: Consultar cantidad de películas por plataforma con filtro de Plataforma.
+- `Funcionalidad 4`: Consultar actor que más se repite según la Plataforma y Año.
+- `Demo`: 
 
+![Demo](https://raw.githubusercontent.com/RocioAldanaMendez/Meteorite-Landings/main/assets/demo.gif)
 
 ### ACCESO AL PROYECTO
             \## 📁 Acceso al proyecto
@@ -103,6 +101,7 @@ Para este proyecto solo se solicitaron 4 tipos de consultas.
 | :---: | 
 
 ### VIDEO (5 min)
+
 ### CONCLUSIÓN
 
 
