@@ -31,18 +31,19 @@ En esta ocasión brinda fuentes de información asociadas al sector de finanzas.
 - Hacer analisis minucioso del indice sp500
 - Sacar información y conclusiones de valor para determinar decisiones de inversion
 - Identificar Industrias o Sectores con mejor Retorno y contraponerlas con la información que se obtuvo anteriormente
+- Desarrollo de KPIs elijiendo un foco
 - Identificar días en donde conviene generar inversiones
+
 
 ## SCOPE-OF-WORK
 La propuesta de trabajo se llevará a cabo en las siguientes etapas:
-
 1. Adquisición de información de las siguientes fuentes: 
    -  API de yahoo finance
    - Librería: https://pypi.org/project/yfinance/ 
    - Página oficial
    - Lista índice SP500
-
 2. Análisis exploratorio de datos (EDA) Link: (https://github.com/RocioAldanaMendez/FastAPI/blob/main/ETL-EDA/modelo2.ipynb)
+3. Desarrollo de Dashboard con Power BI.
 
 ## ESTADO:
 <h4 align="center">
