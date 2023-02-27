@@ -94,9 +94,7 @@ Como paso inicial, los datos se cargarán utilizando la biblioteca pandas. En es
   
   Y duration_time puede ser: min o season.
   
-- `Demo`: 
-
-![demo](https://github.com/RocioAldanaMendez/FastAPI/blob/main/aseets/DEMO1.gif)
+Link Proyecto POWER BI: https://mega.nz/file/VZ40zRgQ#2OhQOR6IZmTGIEqyP-rKaz2MTtsqrrwRWYlXDdWmcjk
 
 
 ## ACCESO-AL-PROYECTO
