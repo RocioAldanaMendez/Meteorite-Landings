@@ -12,14 +12,12 @@
     <li><a href="#OBJETIVO">OBJETIVO</a></li>
     <li><a href="#SCOPE-OF-WORK">SCOPE OF WORK</a></li>
     <li><a href="#ESTADO">ESTADO</a></li>
-    <li><a href="#EDA-ETL">EDA - ETL</a></li>
-    <li><a href="#FastAPI">FastAPI</a></li>
-    <li><a href="#MINI-DEMO1">MINI-DEMO1</a></li>
-    <li><a href="#MINI-DEMO2">MINI-DEMO2</a></li>
+    <li><a href="#EDA">EDA</a></li>
+    <li><a href="#PowerBI">PowerBI</a></li>
+    <li><a href="#PLANTEO-KPIs">PLANTEO-KPIs</a></li>
     <li><a href="#ACCESO-AL-PROYECTO">ACCESO AL PROYECTO</a></li>
     <li><a href="#TECNOLOGÍAS">TECNOLOGÍAS UTILIZADAS</a></li>
     <li><a href="#DESARROLLADORES">DESARROLLADORES DEL PROYECTO</a></li>
-    <li><a href="#VIDEO">VIDEO</a></li>
   </ol>
 </details>
 
@@ -50,7 +48,7 @@ La propuesta de trabajo se llevará a cabo en las siguientes etapas:
 :white_check_mark: Proyecto finalizado :white_check_mark:
 </h4>
 
-## EDA-ETL
+## EDA
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width=40px height=40px/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width=40px height=40px/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width=40px height=40px/>  
 
 1. Análisis Introductorio de la primera fuente de datos
@@ -65,6 +63,7 @@ La propuesta de trabajo se llevará a cabo en las siguientes etapas:
 10. Exportación de datos en .parquet, y .csv (siempre es mejor tener un respaldo)
 11. Creación de Dashboard para presentar ante un cliente: Link 
 
+Link Desarrollo de Analisis Exploratorio de Datos en .ipynb: 
 
 ## PowerBI
 
@@ -82,13 +81,13 @@ Link Proyecto POWER BI:
 
 
 ## ACCESO-AL-PROYECTO
-            ## 🛠️ Abre y ejecuta el proyecto
-            -  Para correr la api completa es necesario descomprimir el archivo que contiene el modelo, para que la api consuma de ese archivo, y como se subió la carpeta donde se desarrolló la api completa, debe correr.
-            -Para visualizar la salida final en los Deploys podes ir al link de punto 7 y 8 del scope of work, o ingresar al alrchivo txt que contiene todos los links.
-            
+            ## 🛠️ Abrir el archivo .ipynb para visualizar el EDA.
+            ## Al clonarlo no hace falta descargar nada mas.
+            ## El archivo de Power BI está alojado en una nube, por lo que es necesario descargarlo y correrlo en Power BI Desktop.
+
  
 ## TECNOLOGÍAS
- <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width=40px height=40px/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width=40px height=40px/>
+ <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width=40px height=40px/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width=40px height=40px/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi.svg" width=40px height=40px/>
 
 ## DESARROLLADORES
 
